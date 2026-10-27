@@ -74,6 +74,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 
 ## Fact-Checking & Verification
 
+- [Income Claim Check](https://money.taoliapp.com/) – Fact-checks indie-hacker and creator income screenshots; links sources when verified or marks claims unverified/debunked.
 - [Snopes](https://www.snopes.com/) – Debunks myths, misinformation, and urban legends.
 - [PolitiFact](https://www.politifact.com/) – Fact-checks political statements and claims.
 - [FactCheck.org](https://www.factcheck.org/) – Nonprofit project of the Annenberg Public Policy Center.
