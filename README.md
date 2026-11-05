@@ -91,6 +91,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 - [News API](https://newsapi.org/) – Aggregates headlines and articles from major news outlets.
 - [Mediastack](https://mediastack.com/) – Real-time, REST-based news delivery API.
 - [NY Times Developer Network](https://developer.nytimes.com/) – APIs for accessing articles, archives, comments, and more.
+- [twtData X Trends](https://twtdata.com/twitter-trends/) – Free list of what is trending on X, worldwide and by country.
 
 ## Open Source Projects
 
